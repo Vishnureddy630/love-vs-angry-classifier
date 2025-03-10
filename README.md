@@ -39,20 +39,6 @@ The **Logistic Regression model** is evaluated using:
 - **Confusion Matrix**  
 
 
-## 🚀 Future Improvements
-✅ Use **Deep Learning models** like LSTMs or Transformers  
-✅ Deploy the model using **Flask** or **Streamlit**  
-✅ Expand to detect more emotions like *Happy, Sad, Fear, etc.*  
 
----
 
-## 🤝 Contributing
-Feel free to **fork this repo** and submit a Pull Request with improvements.  
-
----
-
-## 📜 License
-This project is open-source and available under the **MIT License**.  
-
----
 
