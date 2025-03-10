@@ -23,7 +23,6 @@ This project uses **Machine Learning (ML) with Logistic Regression** to classify
 
 ## 📊 Dataset
 The dataset contains text samples labeled as **Love** or **Angry**. Each row consists of:
-- **Text**: The input sentence or phrase.  
 - **Label**: The corresponding emotion (*Love* or *Angry*).  
 
 ---
@@ -35,8 +34,6 @@ The dataset contains text samples labeled as **Love** or **Angry**. Each row con
 ## 📈 Model Performance
 The **Logistic Regression model** is evaluated using:
 - **Accuracy Score**  
-- **Classification Report**  
-- **Confusion Matrix**  
 
 
 
